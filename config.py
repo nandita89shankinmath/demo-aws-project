@@ -1,5 +1,5 @@
-customhost = "mydatap2.ccckdg9xwatt.us-east-1.rds.amazonaws.com"
+customhost = "nandita2.ccckdg9xwatt.us-east-1.rds.amazonaws.com"
 custompass = "admin123"
-customdb = "mydatap2"
-custombucket = "nanip2"
+customdb = "nandita2"
+custombucket = "myproje2"
 customregion = "us-east-1"
